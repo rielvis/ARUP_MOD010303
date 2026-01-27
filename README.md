@@ -367,4 +367,5 @@ Additional mechanics will be added or refined in future lessons, including:
 
 * Player lose state
 * Collectable items
+* Triggers
 
