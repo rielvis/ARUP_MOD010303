@@ -13,7 +13,6 @@ The template includes:
 * A complete player controller with stealth mechanics
 * Multiple enemy AI types implemented using **Behaviour Trees**
 * Environmental threats such as **cameras** and **turrets**
-* A **drone reconnaissance** system
 * A **modular mission objective** system
 
 You are expected to **understand, adapt, and extend** these systems rather than treat them as a black box.
@@ -48,8 +47,6 @@ The player character supports the following mechanics.
 * Interact with mission objectives
 
 ### Utility
-
-* Drone control for reconnaissance
 
 All player logic is implemented in `ThirdPersonCharacterBP`.
 
